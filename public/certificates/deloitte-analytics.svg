@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" fill="none">
+  <defs>
+    <filter id="paperShadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="450" fill="#eef1f4"/>
+  <rect x="16" y="14" width="768" height="422" rx="8" fill="#ffffff" filter="url(#paperShadow)"/>
+
+  <text x="60" y="78" fill="#111111" font-family="Arial, sans-serif" font-size="44" font-weight="700">Deloitte</text>
+  <circle cx="208" cy="66" r="7" fill="#8cc63f"/>
+
+  <path d="M52 96H514" stroke="#e6e9ed" stroke-width="1.5"/>
+
+  <text x="60" y="142" fill="#1c1c1c" font-family="Arial, sans-serif" font-size="26" font-weight="700">Afaque Hayat Khan</text>
+  <text x="60" y="180" fill="#1c1c1c" font-family="Arial, sans-serif" font-size="26" font-weight="700">Data Analytics Job Simulation</text>
+
+  <text x="60" y="232" fill="#3a3a3a" font-family="Arial, sans-serif" font-size="22">Certificate of Completion</text>
+  <text x="60" y="258" fill="#4a4a4a" font-family="Arial, sans-serif" font-size="15">August 2nd, 2025</text>
+
+  <path d="M52 302H736" stroke="#eceff2" stroke-width="1.5"/>
+
+  <text x="58" y="330" fill="#555555" font-family="Arial, sans-serif" font-size="9.8">Over the period of July 2025 to August 2025, Afaque Hayat Khan has completed practical tasks in:</text>
+  <text x="58" y="356" fill="#4b4b4b" font-family="Arial, sans-serif" font-size="10">Data analysis</text>
+  <text x="58" y="370" fill="#4b4b4b" font-family="Arial, sans-serif" font-size="10">Forensic technology</text>
+
+  <path d="M548 334C558 319 566 354 576 330C583 312 592 350 603 326" stroke="#6a6a6a" stroke-width="1.6" fill="none"/>
+  <text x="538" y="394" fill="#333333" font-family="Arial, sans-serif" font-size="10.5" font-weight="700">Tina McCreery</text>
+  <text x="538" y="410" fill="#4d4d4d" font-family="Arial, sans-serif" font-size="9.8">Chief Human</text>
+  <text x="538" y="424" fill="#4d4d4d" font-family="Arial, sans-serif" font-size="9.8">Resources Officer,</text>
+  <text x="538" y="438" fill="#4d4d4d" font-family="Arial, sans-serif" font-size="9.8">Deloitte</text>
+
+  <text x="58" y="432" fill="#b0b4b9" font-family="Arial, sans-serif" font-size="8">Enrolment Verification Code 7e0PkqzLWk2GCN2fQP</text>
+  <text x="282" y="432" fill="#b0b4b9" font-family="Arial, sans-serif" font-size="8">|</text>
+  <text x="294" y="432" fill="#b0b4b9" font-family="Arial, sans-serif" font-size="8">User Verification Code gMMiazDSADXvhFn54N</text>
+  <text x="496" y="432" fill="#b0b4b9" font-family="Arial, sans-serif" font-size="8">|</text>
+  <text x="508" y="432" fill="#b0b4b9" font-family="Arial, sans-serif" font-size="8">Issued by Forage</text>
+</svg>

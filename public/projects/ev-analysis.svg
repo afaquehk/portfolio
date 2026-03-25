@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="450" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e9eef4"/>
+      <stop offset="1" stop-color="#cbd8e5"/>
+    </linearGradient>
+    <linearGradient id="sheet" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#edf2f7"/>
+    </linearGradient>
+    <linearGradient id="ringBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#88d0f1"/>
+      <stop offset="1" stop-color="#2d8fca"/>
+    </linearGradient>
+    <linearGradient id="ringLight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d7edf8"/>
+      <stop offset="1" stop-color="#8ecbe9"/>
+    </linearGradient>
+    <linearGradient id="barBlue" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#67bfe8"/>
+      <stop offset="1" stop-color="#9edcf5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#64748b" flood-opacity="0.18"/>
+    </filter>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.8"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="450" fill="url(#bg)"/>
+
+  <g transform="rotate(-8 520 40)">
+    <rect x="228" y="-18" width="360" height="82" rx="6" fill="#5f6671" filter="url(#shadow)"/>
+    <rect x="238" y="-10" width="340" height="66" rx="4" fill="#222831"/>
+    <rect x="246" y="-2" width="324" height="50" rx="3" fill="#f8fafc"/>
+    <path d="M272 10H545" stroke="#d2dae4" stroke-width="1.2"/>
+    <path d="M272 22H545" stroke="#d2dae4" stroke-width="1.2"/>
+    <path d="M272 34H545" stroke="#d2dae4" stroke-width="1.2"/>
+  </g>
+
+  <g opacity="0.85">
+    <rect x="0" y="8" width="250" height="176" fill="url(#sheet)" filter="url(#shadow)"/>
+    <circle cx="82" cy="62" r="48" fill="#dceef8"/>
+    <circle cx="82" cy="62" r="23" fill="#ffffff"/>
+    <path d="M82 14A48 48 0 0 1 120 34L100 48A23 23 0 0 0 82 39Z" fill="#55b2df"/>
+    <path d="M120 34A48 48 0 0 1 127 87L102 78A23 23 0 0 0 100 48Z" fill="#7ac8ea"/>
+    <path d="M127 87A48 48 0 0 1 88 110L85 85A23 23 0 0 0 102 78Z" fill="#4faddd"/>
+    <path d="M88 110A48 48 0 0 1 42 90L65 75A23 23 0 0 0 85 85Z" fill="#94d8f3"/>
+    <path d="M42 90A48 48 0 0 1 48 30L69 45A23 23 0 0 0 65 75Z" fill="#68bee7"/>
+    <path d="M48 30A48 48 0 0 1 82 14L82 39A23 23 0 0 0 69 45Z" fill="#82d0ef"/>
+
+    <rect x="142" y="18" width="84" height="34" rx="4" fill="#6ec2e9"/>
+    <path d="M154 28H214M154 36H214M154 44H194" stroke="#dff3fb" stroke-width="3" stroke-linecap="round"/>
+    <rect x="142" y="63" width="84" height="22" rx="4" fill="#ffffff" stroke="#d6dde6"/>
+    <path d="M152 74H214" stroke="#ced8e2" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <rect x="293" y="48" width="479" height="336" rx="10" fill="url(#sheet)" filter="url(#shadow)"/>
+
+  <path d="M380 162C419 133 463 138 502 155C543 173 578 203 626 203C667 203 706 184 736 153" stroke="#cad3dd" stroke-width="2.2" fill="none"/>
+  <path d="M380 171C418 144 462 149 501 165C541 181 579 211 626 211C668 211 706 194 736 164" stroke="#d9e1ea" stroke-width="1.6" fill="none"/>
+
+  <path d="M352 118H728" stroke="#e0e7ef" stroke-width="1"/>
+  <path d="M352 166H728" stroke="#e0e7ef" stroke-width="1"/>
+  <path d="M352 214H728" stroke="#e0e7ef" stroke-width="1"/>
+  <path d="M352 262H728" stroke="#e0e7ef" stroke-width="1"/>
+  <path d="M352 310H728" stroke="#e0e7ef" stroke-width="1"/>
+  <path d="M352 358H728" stroke="#e0e7ef" stroke-width="1"/>
+
+  <path d="M360 345V126" stroke="#c8d2de" stroke-width="1.5"/>
+  <path d="M718 345V126" stroke="#c8d2de" stroke-width="1.5"/>
+
+  <g>
+    <rect x="548" y="242" width="11" height="92" rx="2" fill="url(#barBlue)"/>
+    <rect x="567" y="234" width="11" height="100" rx="2" fill="url(#barBlue)"/>
+    <rect x="586" y="225" width="11" height="109" rx="2" fill="url(#barBlue)"/>
+    <rect x="605" y="215" width="11" height="119" rx="2" fill="url(#barBlue)"/>
+    <rect x="624" y="207" width="11" height="127" rx="2" fill="url(#barBlue)"/>
+    <rect x="643" y="197" width="11" height="137" rx="2" fill="url(#barBlue)"/>
+    <rect x="662" y="188" width="11" height="146" rx="2" fill="url(#barBlue)"/>
+    <rect x="681" y="178" width="11" height="156" rx="2" fill="url(#barBlue)"/>
+    <rect x="700" y="168" width="11" height="166" rx="2" fill="url(#barBlue)"/>
+  </g>
+
+  <g opacity="0.88" filter="url(#shadow)">
+    <circle cx="211" cy="316" r="105" fill="#b9e0f2"/>
+    <circle cx="211" cy="316" r="53" fill="#edf7fc"/>
+    <path d="M211 211A105 105 0 0 1 312 286L257 304A47 47 0 0 0 211 269Z" fill="url(#ringBlue)"/>
+    <path d="M312 286A105 105 0 0 1 244 416L227 360A47 47 0 0 0 257 304Z" fill="#5cb6e0"/>
+    <path d="M244 416A105 105 0 0 1 104 380L158 347A47 47 0 0 0 227 360Z" fill="#86cfe9"/>
+    <path d="M104 380A105 105 0 0 1 111 248L164 283A47 47 0 0 0 158 347Z" fill="#cfe8f4"/>
+    <path d="M111 248A105 105 0 0 1 211 211L211 269A47 47 0 0 0 164 283Z" fill="url(#ringLight)"/>
+    <path d="M211 316L312 286A105 105 0 0 1 244 416Z" fill="#6ec4e8" fill-opacity="0.28"/>
+  </g>
+
+  <path d="M0 438H800" stroke="#d5dee8" stroke-width="6" filter="url(#soft)"/>
+
+  <text x="14" y="163" fill="#0f172a" font-family="Arial, sans-serif" font-size="52" font-weight="700">EV-Data</text>
+  <text x="14" y="226" fill="#0f172a" font-family="Arial, sans-serif" font-size="52" font-weight="700">Analysis</text>
+  <text x="16" y="258" fill="#0f172a" fill-opacity="0.88" font-family="Arial, sans-serif" font-size="15">by Afaque Hayat Khan</text>
+
+  <text x="410" y="400" fill="#1f2937" font-family="Arial, sans-serif" font-size="11">"Analyzed EV datasets with Python-cleaned,</text>
+  <text x="410" y="414" fill="#1f2937" font-family="Arial, sans-serif" font-size="11">visualized trends with Matplotlib/Seaborn/NumPy,</text>
+  <text x="410" y="428" fill="#1f2937" font-family="Arial, sans-serif" font-size="11">uncovered adoption insights."</text>
+</svg>

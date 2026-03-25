@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" fill="none">
+  <defs>
+    <linearGradient id="footerBand" x1="0" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f1d3ab"/>
+      <stop offset="1" stop-color="#f7deb6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="450" fill="#f7f4ee"/>
+  <rect x="0" y="0" width="800" height="450" fill="#fffdf9"/>
+
+  <path d="M346 0H454L434 34H366Z" fill="#b11217"/>
+  <text x="400" y="25" text-anchor="middle" fill="#fff4dd" font-family="Georgia, serif" font-size="22" font-weight="700">Elite</text>
+
+  <circle cx="72" cy="56" r="30" fill="none" stroke="#d29a31" stroke-width="5"/>
+  <path d="M72 24C86 42 90 68 72 88C54 68 58 42 72 24Z" stroke="#9c1f2c" stroke-width="1.5" fill="none"/>
+  <path d="M40 56H104M72 24V88M50 34L94 78M94 34L50 78" stroke="#9c1f2c" stroke-width="1.2" opacity="0.8"/>
+
+  <text x="172" y="66" fill="#b11d19" font-family="Georgia, serif" font-size="30" font-weight="700">NPTEL ONLINE CERTIFICATION</text>
+  <text x="287" y="90" fill="#222222" font-family="Arial, sans-serif" font-size="14">(Funded by the MoE, Govt. of India)</text>
+
+  <text x="676" y="58" text-anchor="middle" fill="#223366" font-family="Arial, sans-serif" font-size="14" font-weight="700">Skill India</text>
+  <text x="676" y="74" text-anchor="middle" fill="#3d3d3d" font-family="Arial, sans-serif" font-size="9">Kaushal Bharat - Kushal Bharat</text>
+  <rect x="632" y="92" width="82" height="110" fill="#d8edf6" stroke="#8bb6c9"/>
+  <rect x="648" y="110" width="50" height="70" rx="2" fill="#243347"/>
+  <circle cx="673" cy="133" r="14" fill="#d9b49b"/>
+  <rect x="659" y="148" width="28" height="22" rx="8" fill="#0f172a"/>
+
+  <text x="400" y="128" text-anchor="middle" fill="#1f1f1f" font-family="Georgia, serif" font-size="17">This certificate is awarded to</text>
+  <text x="400" y="158" text-anchor="middle" fill="#111111" font-family="Arial, sans-serif" font-size="19" font-weight="700">AFAQUE HAYAT KHAN</text>
+  <text x="400" y="186" text-anchor="middle" fill="#1f1f1f" font-family="Georgia, serif" font-size="17">for successfully completing the course</text>
+  <text x="400" y="228" text-anchor="middle" fill="#151515" font-family="Georgia, serif" font-size="24" font-weight="700">Privacy and Security in Online Social Media</text>
+
+  <text x="350" y="274" text-anchor="end" fill="#222222" font-family="Georgia, serif" font-size="17">with a consolidated score of</text>
+  <text x="411" y="274" fill="#111111" font-family="Arial, sans-serif" font-size="22" font-weight="700">61</text>
+  <text x="448" y="274" fill="#111111" font-family="Arial, sans-serif" font-size="18" font-weight="700">%</text>
+
+  <rect x="214" y="286" width="400" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+  <path d="M384 286V320M472 286V320" stroke="#222222" stroke-width="1.2"/>
+  <text x="298" y="309" text-anchor="middle" fill="#111111" font-family="Georgia, serif" font-size="15" font-weight="700">Online Assignments</text>
+  <text x="428" y="309" text-anchor="middle" fill="#111111" font-family="Arial, sans-serif" font-size="15" font-weight="700">18.39/25</text>
+  <text x="540" y="309" text-anchor="middle" fill="#111111" font-family="Georgia, serif" font-size="15" font-weight="700">Proctored Exam</text>
+  <text x="642" y="309" text-anchor="middle" fill="#111111" font-family="Arial, sans-serif" font-size="15" font-weight="700">42.86/75</text>
+
+  <text x="400" y="348" text-anchor="middle" fill="#1a1a1a" font-family="Georgia, serif" font-size="16">Total number of candidates certified in this course: 10457</text>
+
+  <path d="M120 372C130 356 142 393 152 368C159 350 169 387 179 362" stroke="#111111" stroke-width="2" fill="none"/>
+  <text x="66" y="402" fill="#111111" font-family="Arial, sans-serif" font-size="12" font-weight="700">Prof. Kishore Kothapalli</text>
+  <text x="70" y="418" fill="#333333" font-family="Arial, sans-serif" font-size="9">Professor and Dean (Academics)</text>
+  <text x="104" y="432" fill="#333333" font-family="Arial, sans-serif" font-size="9">IIIT Hyderabad</text>
+
+  <text x="400" y="400" text-anchor="middle" fill="#111111" font-family="Georgia, serif" font-size="18" font-weight="700">Jan-Apr 2025</text>
+  <text x="400" y="424" text-anchor="middle" fill="#111111" font-family="Georgia, serif" font-size="15" font-weight="700">(12 week course)</text>
+
+  <path d="M640 372C650 356 662 393 672 368C679 350 689 387 699 362" stroke="#111111" stroke-width="2" fill="none"/>
+  <text x="618" y="402" fill="#111111" font-family="Arial, sans-serif" font-size="12" font-weight="700">Prof. Andrew Thangaraj</text>
+  <text x="650" y="418" fill="#333333" font-family="Arial, sans-serif" font-size="9">NPTEL, Coordinator</text>
+  <text x="665" y="432" fill="#333333" font-family="Arial, sans-serif" font-size="9">IIT Madras</text>
+
+  <rect x="0" y="448" width="800" height="2" fill="#ffffff"/>
+  <rect x="0" y="386" width="800" height="40" fill="url(#footerBand)"/>
+  <text x="44" y="418" fill="#1c1c1c" font-family="Arial, sans-serif" font-size="10">International Institute of Information Technology, Hyderabad</text>
+  <rect x="634" y="394" width="116" height="34" rx="4" fill="#f7f3ea" stroke="#a8552d"/>
+  <text x="692" y="414" text-anchor="middle" fill="#2672b8" font-family="Arial, sans-serif" font-size="16" font-weight="700">swayam</text>
+
+  <rect x="0" y="426" width="800" height="24" fill="#a3241a"/>
+  <text x="22" y="442" fill="#fff3e2" font-family="Arial, sans-serif" font-size="10">Roll No: NPTEL25CS79S147500638</text>
+  <text x="323" y="442" fill="#fff3e2" font-family="Arial, sans-serif" font-size="10">To verify the certificate</text>
+  <rect x="478" y="429" width="26" height="18" fill="#ffffff"/>
+  <path d="M481 432H501M481 438H501M481 444H501M487 429V447M495 429V447" stroke="#111111" stroke-width="0.7"/>
+  <text x="690" y="442" fill="#fff3e2" font-family="Arial, sans-serif" font-size="10">No. of credits recommended: 3 or 4</text>
+</svg>
