@@ -24,13 +24,12 @@ const skillsData = [
   { name: 'Jupyter', category: 'Tools', iconUrl: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg', level: 80 },
   { name: 'MySQL', category: 'Tools', iconUrl: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg', level: 75 },
   { name: 'Tableau', category: 'Tools', iconUrl: 'https://cdn.worldvectorlogo.com/logos/tableau-software.svg', level: 70 },
-  { name: 'Microsoft Excel', category: 'Tools', iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg', level: 85 },
+  { name: 'Microsoft Excel', category: 'Tools', iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png', level: 85 },
 ];
 export function Skills() {
   const filters = ['All', 'Languages', 'Libraries', 'Tools'];
   const coreStrengths = [
     { name: 'Exploratory Data Analysis', icon: BarChart3 },
-    { name: 'Statistical Thinking', icon: TrendingUp },
     { name: 'Machine Learning Foundations', icon: Brain },
     { name: 'Data Storytelling', icon: MessageSquare },
     { name: 'Deep Learning', icon: Network },

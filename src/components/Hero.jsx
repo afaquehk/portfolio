@@ -106,7 +106,7 @@ export function Hero() {
                     transition={{ duration: 15, repeat: Infinity, ease: "linear" }}
                     className="absolute left-6 top-1/2 -translate-y-1/2 bg-[#0a0a0f]/80 backdrop-blur-md px-3 py-1.5 rounded-full text-xs md:text-sm text-white border border-white/10 font-medium whitespace-nowrap z-50"
                   >
-                    150+ DSA Questions Solved
+                    200+ DSA Questions Solved
                   </motion.div>
                 </div>
               </motion.div>
